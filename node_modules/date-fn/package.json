@@ -1,0 +1,18 @@
+{
+  "name": "date-fn",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "date-fn"
+  ],
+  "author": "AnanthaKannan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
